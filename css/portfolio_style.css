@@ -1,0 +1,35 @@
+#photo5 {
+    width: 190px;
+    height: 320px;
+    background-color: gray;
+    background-image: url(../img/calc.jpg);
+    background-repeat: no-repeat;
+    margin: 50px auto;
+}
+
+#photo1 {
+    width: 400px;
+    height: 510px;
+    background-color: gray;
+    background-image: url(../img/bscit.jpg);
+    background-repeat: no-repeat;
+    margin: 50px auto;
+}
+
+#photo2 {
+    width: 350px;
+    height: 520px;
+    background-color: gray;
+    background-image: url(../img/12thmarksheet.jpg);
+    background-repeat: no-repeat;
+    margin: 50px auto;
+}
+
+#photo3 {
+    width: 350px;
+    height: 520px;
+    background-color: gray;
+    background-image: url(../img/10thmarksheet.jpg);
+    background-repeat: no-repeat;
+    margin: 50px auto;
+}
